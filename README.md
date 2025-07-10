@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **REACT, NODE.JS, SASS**
 
-- 📫 How to reach me **wijayarathna.sankalpani@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -21,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpaniwijayarathna&show_icons=true&locale=en&layout=compact" alt="sankalpaniwijayarathna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalpaniwijayarathna&show_icons=true&locale=en" alt="sankalpaniwijayarathna" /></p>
+
+
