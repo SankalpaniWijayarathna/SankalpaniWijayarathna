@@ -1,4 +1,4 @@
-![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
+![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)
 <h1 align="center">Hi 👋, I'm Kaveesha Sankalpani Wijayarathna</h1>
 <h3 align="center">I'm an IT student pursuing my BSc IT at The Open University of Sri Lanka. I'm excited to dive deeper into software development, data science, and all things tech. Always eager to collaborate and learn!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/FG4r5mVS-UIAAAAC/coding.gif">
